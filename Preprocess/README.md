@@ -6,6 +6,9 @@
 
 ```bash
 python parse.py -q <question_path> -r <reference_path>
+```
 
 例如
-python parse.py -q ../datasets/dataset/questions_preliminary.json -r ../datasets/dataset/reference
+```bash
+python parse.py -q ../datasets/dataset/preliminary/questions_example.json -r ../datasets/reference
+```
