@@ -8,4 +8,4 @@
 python parse.py -q <question_path> -r <reference_path>
 
 例如
-python parse.py -q ../datasets/questions_preliminary.json -r ../datasets/reference
+python parse.py -q ../datasets/dataset/questions_preliminary.json -r ../datasets/dataset/reference
