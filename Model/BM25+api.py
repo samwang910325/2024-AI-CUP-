@@ -181,7 +181,7 @@ def count_similarity(parsed_data):
 
 
 if __name__ == '__main__':
-    parsed_data = load_parse_data('parse.json')
+    parsed_data = load_parse_data('../Preprocess/parse.json')
     result = count_similarity(parsed_data)
 
     result_format = {
