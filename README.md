@@ -39,4 +39,4 @@
     ```bash
     pip install -r requirements.txt
     ```
-3. 分別執行 `parse.py` 及 `BM25+api.py`
+3. 分別執行 `Preprocess/parse.py` 及 `Model/BM25+api.py`
