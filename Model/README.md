@@ -6,7 +6,7 @@
 
 - 使用 BM25 演算法對文本進行檢索排序。  
 - 使用 OpenAI API 進一步確認最佳的匹配文本。
-- 輸出最佳匹配結果。
+- 輸出最佳匹配結果 `BM25withAPI_results.json`。
 
 ## 使用前的準備
 
@@ -19,3 +19,4 @@
 client = openai.OpenAI(
     api_key='API_KEY_PLACEHOLDER'  # 替換為您的 API Key
 )
+
