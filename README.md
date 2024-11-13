@@ -25,7 +25,7 @@
 
 ## 環境配置
 
-本專案中需使用 OpenAPI，模型是gpt-4o-mini，但由於有對資料先進行篩選，因此tokens數並不會太高
+本專案中需使用 OpenAI API，模型是gpt-4o-mini，但由於有對資料先進行篩選，因此tokens數並不會太高
 
 ## 資料集說明
 
